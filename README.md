@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Taha
-- 👀 I’m interested in robotics, machine learning, deep learning, computer vision, SLAM, Frontend Development and Graphical Programming.
-- 🌱 I’m currently learning Deep Learning and Full Stack Development.
+- 👀 I’m interested in Physics, Robotics, Machine Learning, Deep Learning, Full-Stack Development, Graphical Programming and Electronics.
+- 🌱 I’m currently learning Deep Learning and Convolutional Neural Networks in Computer Vision.
 - 💞️ I’m looking to collaborate on projects that help build my skills and interests further.
-- 📫 How to reach me - Email- taharaja02@gmail.com
--                       LinkedIn- Taha Raja
+- 📫 How to reach me - 
+- Email- taharaja02@gmail.com
+- LinkedIn- Taha Raja
